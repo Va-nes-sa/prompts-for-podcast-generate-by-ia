@@ -18,7 +18,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
+- [Imagem MidJourney](https://github.com/Va-nes-sa/prompts-for-podcast-generate-by-ia/blob/main/assets/image-generator.png)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
@@ -26,6 +26,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 🛠️ Execução
 
 - 🤖 1. Prompts de nome no `chagpt`
+
 Você é um roteirista de podcast, e vamos criar um podcast de governança organizacional e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de feito por especialistas, e que tenha algum trocadilho divertido no nome
 
 O podcast vai falar sobre a criação da nomra ISO 37000:2021 Governança de Organizações e o impacto no mercado global
@@ -43,6 +44,7 @@ O podcast vai falar sobre a criação da nomra ISO 37000:2021 Governança de Org
 
 
 - 🤖 2. Prompts de roteiro no `chagpt`
+
 Você é uma roteirista de podcast, e vamos criar um  roteiro de um podcast de governança organizacional, focado norma ISO 37000:2021 Governança de Organizações cujo o nome é "Deixa com a Governança - Tudo sobre a ISO 37000 e a organização do futuro" e tem foco em na aplicabilidade da norma em empresas brasileiras,  com o público alvo de alta gerências de instituições financeiras
 o formato do roteiro deve ser
 [INTRODUÇÃO]
@@ -66,6 +68,7 @@ o formato do roteiro deve ser
 - Não ultrapasse 2 minutos de duração
 
 - 🤖 3. Prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+
 Roteiro do Podcast: "Deixa com a Governança"
 Episódio: Tudo sobre a ISO 37000 e a organização do futuro
 
@@ -86,6 +89,7 @@ Vanessa Oliveira:
 "É isso, pessoal! Espero que esse episódio tenha deixado você mais curioso pra entender como a ISO 37000 pode transformar as organizações. Não se esqueça: governança não é só burocracia, é estratégia de sucesso. Eu sou Vanessa Oliveira e esse foi o 'Deixa com a Governança' dessa semana. Até a próxima, e bora aplicar essa norma no dia a dia!"
 
 - 🤖 3. Prompts de artes no `midjourney`
+
 Arte abstrata colorida e futurista.
 
 ⌨️ por [Vanessa Oliveira ](https://github.com/felipeAguiarCode)
