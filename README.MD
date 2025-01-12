@@ -92,4 +92,4 @@ Vanessa Oliveira:
 
 Arte abstrata colorida e futurista.
 
-⌨️ por [Vanessa Oliveira ](https://github.com/felipeAguiarCode)
+⌨️ por [Vanessa Oliveira ](https://github.com/Va-nes-sa/prompts-for-podcast-generate-by-ia/tree/main)
