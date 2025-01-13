@@ -1,6 +1,6 @@
 # Projeto Podcast Gerado por I.A.s
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -8,6 +8,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://elevenlabs.io/app/speech-synthesis/text-to-speech)
 - [Capcut](https://www.capcut.com/pt-br/)
+- {YouTube](https://youtube.com/)
 
 ## ✨ Como foi feito ?
 
@@ -16,11 +17,11 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Documentos Gerados
 
 - [Imagem MidJourney](https://github.com/Va-nes-sa/prompts-for-podcast-generate-by-ia/blob/main/assets/image-generator.png)
 - [Podcast ElevenLabs](https://github.com/Va-nes-sa/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_deixa.com.a.governanca.mp3)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Versão Capcut publicada como shorts no YouTube](https://youtube.com/shorts/gJI95fCeMuA?feature=share)
 
 
 ## 🛠️ Execução
