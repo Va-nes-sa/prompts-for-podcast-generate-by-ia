@@ -8,7 +8,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://elevenlabs.io/app/speech-synthesis/text-to-speech)
 - [Capcut](https://www.capcut.com/pt-br/)
-- {YouTube](https://youtube.com/)
+- [YouTube](https://youtube.com/)
 
 ## ✨ Como foi feito ?
 
